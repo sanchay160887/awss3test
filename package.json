@@ -1,0 +1,19 @@
+{
+  "name": "s3test",
+  "version": "1.0.0",
+  "description": "S3Upload download test",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt serve"
+  },
+  "keywords": [
+    "S3",
+    "bucket"
+  ],
+  "author": "Sanchay Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "s3": "^4.4.0",
+    "s3-policy": "^0.2.0"
+  }
+}
